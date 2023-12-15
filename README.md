@@ -39,3 +39,5 @@
 ЗАГОЛОВКИ ПИШЕМ ЧЕРЕЗ #
 
 ## ЗАКЛЮЧЕНИЕ
+
+## Changed by Nikolay Mukonin
