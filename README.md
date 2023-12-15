@@ -19,10 +19,17 @@
     **либо**
 
     > git push --set-upstream origin ermakov
-    
+
      после чего:
 
      > git add README.md
 
      > git commit -m "внесение изменений"
 
+     > git push
+
+- переходим в браузер, и там, совершаем 
+
+    > Compare & pull request
+
+- Находясь на странице исходника делаем PrintScreen и ждем ответа о принятии изменений.
