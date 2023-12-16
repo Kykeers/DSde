@@ -13,5 +13,5 @@
 9. Save changes (ctrl + S).
 10. git add .
 11. git commit -m "Made changes"
-12. git push
+12. git push --set-upstream origin Kirsanov
 13. pull request
