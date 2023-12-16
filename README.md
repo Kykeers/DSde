@@ -8,9 +8,10 @@
 4. git add README.md
 5. git commit -m "Initial commit"
 6. git branch Kirsanov
-7. Make additions to the file.
-8. Save changes (ctrl + S).
-9. git add .
-10. git commit -m "Made changes"
-11. git push
-12. pull request
+7. git checkout Kirsanov
+8. Make additions to the file.
+9. Save changes (ctrl + S).
+10. git add .
+11. git commit -m "Made changes"
+12. git push
+13. pull request
