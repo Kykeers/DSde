@@ -14,4 +14,5 @@
 10. git add .
 11. git commit -m "Made changes"
 12. git push --set-upstream origin Kirsanov
-13. pull request
+13. on github go to Kirsanov branch
+14. Press the button "Compere & pull request"
