@@ -18,6 +18,7 @@
 * git push -u origin master - we create a remote version of our branch and send it to remote repository for pull request
 * git push - push the same branch to remote repository
 * git clone paste_link_of_remote_repository
+* git pull – get changes from remote repository to our
 
 ## How to work with remote repository
 
