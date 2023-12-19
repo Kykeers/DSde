@@ -10,21 +10,23 @@
 * git diff - difference between saved file and commit
 * git status - get information about current state of git
 * git log - show all history of commits with their hashcode
-* bit branch - show all branches in the repository
-* bit branch name_of_branch - create new branch
-* bit checkout name_of_branch - checkout to another branch
-* bit branch -d name_of_branch - delete branch
+* git branch - show all branches in the repository
+* git branch name_of_branch - create new branch
+* git checkout name_of_branch - checkout to another branch
+* git branch -d name_of_branch - delete branch
 * git remote add origin paste_link_of_remote_repository
-* git push -u origin master - 
+* git push -u origin master - we create a remote version of our branch and send it to remote repository for pull request
+* git push - push the same branch to remote repository
 * git clone paste_link_of_remote_repository
 
 ## How to work with remote repository
 
 ### How to make a pull request
 
-* Creating a fork of the remote repository
-* Make a clone of our version of repository in terminal
-* Create new branch and make our changes there
-* Do commit of our changes
-* Send our version to GitHub
-* On the GitHub website click pull request button
+* Creating a fork of the remote repository in GitHub
+* Make a clone of our version of repository in terminal with **git clone paste_the_link**
+* Create new branch with **git branch name_of_branch** and make our changes there
+* Add our changes to git with **git add** 
+* Do commit of our changes with **git commit -m " "**
+* Send our version to GitHub with **git push -u origin master**
+* On the GitHub website click **pull request** button
