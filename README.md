@@ -53,6 +53,20 @@
 
 ## Работа с ветками
 
+1. Команда `branch`
++ `git branch branch_name` - создет ветку с названием branch_name.
+
+2. Команда `checkout`
++ `git checkout branch_name` - позволяет переключиться с одной ветки
+на другую.
+
+3. Команда `merge`
++ `git merge branch_name` - позволяет произвести слияние веток, слить любую ветку с текущей.
+
+4. Команда `branch -d`
++ Если ветка *branch_name* больше не нужна, ее можно удалить:
++ `git branch -d branch_name` - позволяет удалить слитую ветку.
++ `git branch -D branch_name` - позволяет удалить неслитую ветку.
 
 ##  Git и GitHub
 
